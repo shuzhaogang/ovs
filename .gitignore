@@ -72,3 +72,12 @@ testsuite.tmp.orig
 /rpm/
 /openvswitch*.tar.gz
 /tests/lcov/
+ovs.IAB
+ovs.IAD
+ovs.IMD
+ovs.PFI
+ovs.PRI
+ovs.PS
+ovs.PO
+ovs.IMB
+ovs.PR
